@@ -1,5 +1,6 @@
-## Hi there 👋
+# Foldear
 
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Foldear&style=dark)
 <!--
 **Foldear42/Foldear42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

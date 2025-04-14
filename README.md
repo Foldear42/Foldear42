@@ -26,7 +26,7 @@
 ![UML](https://img.shields.io/badge/UML-233066?style=flat)
 
 ## 🧠 Root-Me
-[![Root-Me Badge](https://img.shields.io/badge/Root--Me-Visit%20Profile-black?style=flat&logo=tryhackme&logoColor=white)](https://www.root-me.org/Foldear42)
+[![Root-Me Badge](https://img.shields.io/badge/Root--Me-Visit%20Profile-black?style=flat&logo=tryhackme&logoColor=white)](https://www.root-me.org/Foldear)
 
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Foldear&style=midnight)

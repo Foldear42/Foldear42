@@ -30,3 +30,7 @@
 
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Foldear&style=midnight)
+
+## 📚 Bibliography
+
+- Jorgensen, Ed. (2020). *x86-64 Assembly Language Programming with Ubuntu*. University of Nevada, Las Vegas.

@@ -33,4 +33,5 @@
 
 ## 📚 Bibliography
 
+- Sikorski, M., & Honig, A. (2012). *Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software*.
 - Jorgensen, Ed. (2020). *x86-64 Assembly Language Programming with Ubuntu*. University of Nevada, Las Vegas.
